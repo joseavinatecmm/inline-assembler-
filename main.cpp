@@ -6,8 +6,6 @@
  *    Description:  
  *
  *        Version:  1.0
- *        Created:  09/29/2021 00:11:20
- *       Revision:  none
  *       Compiler:  gcc
  *
  *         Author:  YOUR NAME (), 
